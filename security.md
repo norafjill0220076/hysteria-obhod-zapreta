@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hysteria-obhod-zapreta)
+[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/crY5Hj8sVQmfgLqLg)
 
 </div>
 
@@ -102,7 +102,7 @@
 2. **📦 Распакуйте** архив — пароль: `2026`
 3. **🖱️ Запустите** от имени администратора → Нажмите «Активировать» → Запустите Hysteria
 
-[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hysteria-obhod-zapreta)
+[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/crY5Hj8sVQmfgLqLg)
 
 ### Подробная инструкция (апрель 2026)
 
@@ -231,7 +231,7 @@
 
 <div align="center">
 
-[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hysteria-obhod-zapreta)
+[![Скачать Hysteria Обход Запрета](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/crY5Hj8sVQmfgLqLg)
 
 **Версия 4.6.1** — Бесплатная активация Hysteria. Апрель 2026. Ноль рублей. Без платежей.
 
